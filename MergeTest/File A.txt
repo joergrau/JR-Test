@@ -1,5 +1,0 @@
-File A - Version: $Revision: 1.2 $
-Version List: JR002
-Line 1 - Unchanged
-Line 2 - Unchanged
-Line 3 - Unchanged
